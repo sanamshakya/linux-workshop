@@ -17,12 +17,12 @@
 * Use grep to show all lines from all files in /etc that exactly contains 3 characters
 * Use grep to find all files that contain the string "alex", but make sure "alexander" is not included in the result
 
-#Lab 5
+# Lab 5
 * Log in to your server using a text only console
 * Also log in from SSH session
 * Find out which terminal names are used for both logins
 
-#Lab 6
+# Lab 6
 * Create 4 users: Linda, Laura, anna and anouk
 * Set their passwords to expire after 60 days
 * Create group sales and make linda and laura members of that group
